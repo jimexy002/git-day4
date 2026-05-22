@@ -1,6 +1,6 @@
 # Simple addition program
 
-a = 109
+a = 55
 b = 30
 
 sum = a + b
